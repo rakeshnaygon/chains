@@ -3823,6 +3823,14 @@
     "format": "png"
   }]
 }, {
+  "name": "potos",
+  "icons": [{
+    "url": "ipfs://bafkreididbxq2gx64fctdjfdyu727hmjauoqpqqtdbwqg5ge4yu2mcrw7a",
+    "width": 1160,
+    "height": 1160,
+    "format": "png"
+  }]
+}, {
   "name": "astrasepolia",
   "icons": [{
     "url": "ipfs://QmQW8DuuyxjdLWAPq3V9zSfdAimaStptZ4gxZ3aEviAafc",
@@ -3837,6 +3845,14 @@
     "width": 250,
     "height": 249,
     "format": "jpg"
+  }]
+}, {
+  "name": "spld-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreigdhkoqdntev2f4ixapfrcku74x4mjsgvebvlzdrjv5oadafrlpzm",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "miyou",
@@ -5252,6 +5268,14 @@
     "url": "ipfs://Qme5iDsQTDfLbyXS6iUEmvL4pWTPEiXc5kqFs7jjthqCWP",
     "width": 180,
     "height": 180,
+    "format": "png"
+  }]
+}, {
+  "name": "splendor",
+  "icons": [{
+    "url": "ipfs://bafkreigdhkoqdntev2f4ixapfrcku74x4mjsgvebvlzdrjv5oadafrlpzm",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {

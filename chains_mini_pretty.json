@@ -10802,6 +10802,32 @@
   "faucets": [],
   "infoURL": "https://apexlayer.xyz/"
 }, {
+  "name": "Splendor Mainnet",
+  "chainId": 2691,
+  "shortName": "spld",
+  "networkId": 2691,
+  "nativeCurrency": {
+    "name": "Splendor Token",
+    "symbol": "SPLD",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.splendor.org", "https://splendor-rpc.org/"],
+  "faucets": [],
+  "infoURL": "https://splendor.org"
+}, {
+  "name": "Splendor Testnet",
+  "chainId": 2692,
+  "shortName": "spldt",
+  "networkId": 2692,
+  "nativeCurrency": {
+    "name": "Splendor Test Token",
+    "symbol": "SPLDT",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.splendor.org"],
+  "faucets": [],
+  "infoURL": "https://splendor.org"
+}, {
   "name": "Morph Testnet",
   "chainId": 2710,
   "shortName": "tmorph",
@@ -18750,8 +18776,8 @@
   "shortName": "1money",
   "networkId": 21210,
   "nativeCurrency": {
-    "name": "USD1",
-    "symbol": "USD1",
+    "name": "FREE",
+    "symbol": "FREE",
     "decimals": 18
   },
   "rpc": ["https://mainnet.1money.network"],
@@ -19625,7 +19651,7 @@
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://rpc_evm-mezo.imperator.co", "wss://ws_evm-mezo.imperator.co", "https://jsonrpc-mezo.boar.network", "wss://jsonrpcws-mezo.boar.network", "https://mainnet.mezo.public.validationcloud.io", "wss://mainnet.mezo.public.validationcloud.io", "https://rpc-internal.mezo.org", "wss://rpc-ws-internal.mezo.org"],
+  "rpc": ["https://rpc_evm-mezo.imperator.co", "wss://ws_evm-mezo.imperator.co", "https://rpc-http.mezo.boar.network", "wss://rpc-ws.mezo.boar.network", "https://mainnet.mezo.public.validationcloud.io", "wss://mainnet.mezo.public.validationcloud.io", "https://rpc-internal.mezo.org", "wss://rpc-ws-internal.mezo.org"],
   "faucets": [],
   "infoURL": "https://mezo.org/"
 }, {
@@ -21565,6 +21591,32 @@
   "rpc": ["https://test103.thinkiumrpc.net/"],
   "faucets": ["https://www.thinkiumdev.net/faucet"],
   "infoURL": "https://thinkium.net/"
+}, {
+  "name": "POTOS Testnet",
+  "chainId": 60600,
+  "shortName": "potos-testnet",
+  "networkId": 60600,
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.potos.hk"],
+  "faucets": ["https://faucet-testnet.potos.hk"],
+  "infoURL": "https://potos.hk"
+}, {
+  "name": "POTOS Mainnet",
+  "chainId": 60603,
+  "shortName": "potos",
+  "networkId": 60603,
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.potos.hk"],
+  "faucets": [],
+  "infoURL": "https://potos.hk"
 }, {
   "name": "BOB",
   "chainId": 60808,
@@ -27525,8 +27577,8 @@
   "shortName": "1money-testnet",
   "networkId": 1212101,
   "nativeCurrency": {
-    "name": "USD1",
-    "symbol": "USD1",
+    "name": "FREE",
+    "symbol": "FREE",
     "decimals": 18
   },
   "rpc": ["https://testnet.1money.network"],
